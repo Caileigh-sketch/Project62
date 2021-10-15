@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "chunkymonkeyclass65",
+    "slug": "snack-b1ed2dd4-14bc-4d6a-b793-abcff7efedf4",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "cam.user.chunkymonkey"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
